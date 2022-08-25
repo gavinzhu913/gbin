@@ -1,5 +1,5 @@
 package main
 
 func main(){
-    println("hello gbin v1.0.0")
+    println("hello gbin v1.0.1")
 }
